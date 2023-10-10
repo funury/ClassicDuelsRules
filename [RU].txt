@@ -1,5 +1,5 @@
 [RU]
-Добро пожаловать на сервер Classic Duels!
+# Добро пожаловать на сервер **Classic Duels!**
 Правила:
  • ФФА только в центре и замке.
  • Начинать дуэль при согласии двух игроков.
@@ -7,12 +7,12 @@
 
 Вся информация насчет обновлений,
 Покупки привилегий и тд в нашем дс канале.
-DS: https://discord.gg/rysdQw3GbA
-VK: https://vk.com/classicduel
+<a id="CLICK ME - Discord">https://discord.gg/rysdQw3GbA</>
+<a id="VK">https://vk.com/classicduel</>
 Приятной игры!
 
 [ENG]
-Welcome to the server Classic Duels!
+# Welcome to the server **Classic Duels!**
 Rules:
  • FFA is only in the center and the castle.
  • Start a duel with the consent of two players.
